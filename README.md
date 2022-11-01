@@ -2,7 +2,7 @@
 
 
 # Screenshots
-!(https://i.postimg.cc/hG9cWT35/githubuserimg.png)
+![img](https://i.postimg.cc/hG9cWT35/githubuserimg.png)
 
 
 # Worked with:
