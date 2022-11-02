@@ -5,7 +5,9 @@ Application for browsing github users data (including followers, stars, most pop
 ![img](https://i.postimg.cc/hG9cWT35/githubuserimg.png)
 
 
-# Worked with:
-✔ Javascript
+## Tech Stack
 
-✔ github users API - https://api.github.com/users
+**Client:** React, Bootstrap, [github users API](https://api.github.com/users)
+
+
+
